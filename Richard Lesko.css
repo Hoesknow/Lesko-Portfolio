@@ -144,7 +144,8 @@ fieldset {
 }
 
 #contact button[type="submit"]:hover {
-	background:#09C;
+	color: black;
+	background:yellow;
 	-webkit-transition:background 0.3s ease-in-out;
 	-moz-transition:background 0.3s ease-in-out;
 	transition:background-color 0.3s ease-in-out;
@@ -175,6 +176,13 @@ fieldset {
 
 }
 
+
+
+
+#pullfile{
+text-align: center;
+
+}
 
 #footer{
   position: relative;
